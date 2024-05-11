@@ -1,5 +1,9 @@
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
+### NAME: NAVEEN KUMAR M
+### REG NO: 212222110028
+### DATE : 30/04/2024
+
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
